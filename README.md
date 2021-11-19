@@ -40,6 +40,9 @@ $ yarn add react-native-bootsplash@next
 
 Don't forget going into the `ios` directory to execute a `pod install`.
 
+## Automatic Linking
+`npm link react-native-bootsplash`
+
 ## 🆘 Manual linking
 
 Because this package targets React Native 0.65.0+, you probably don't need to link it manually. But if you have a special case, follow these additional instructions:
